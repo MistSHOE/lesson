@@ -106,3 +106,5 @@
 #     a += percent
 #
 # print("День:", number_day, "км:", int(a))
+
+# Работа с гитом
